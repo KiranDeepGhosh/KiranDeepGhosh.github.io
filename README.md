@@ -8,20 +8,6 @@ Ruhr University Bochum, Germany
 [LinkedIn](https://www.linkedin.com/in/kiran-deep-ghosh-972aa82aa/)  
 [Google Scholar](https://scholar.google.com/citations?user=QZh1XK4AAAAJ)
 
----
-
-**Navigation**
-
-[About Me](#about)  
-[Research](#research)     
-[Contact](#contact)
-
----
-
-Cryptography.  
-Mathematics.  
-Distributed Computing.
-
 
 ---
 
@@ -38,8 +24,6 @@ My academic journey began with a bachelor's degree in Mathematics from [Scottish
 - Zero-knowledge proofs.
 - Distributed computing.
 
-
-## Conference Papers
 
 ## Publications
 
