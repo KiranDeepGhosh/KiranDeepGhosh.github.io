@@ -29,9 +29,9 @@ My academic journey began with a bachelor's degree in Mathematics from [Scottish
 
 ### Conference Papers
 
-- **Universally Composable Reverse Firewalls for Oblivious Linear Evaluation and Applications.**  
-  Chakraborty, S., **Ghosh, KD.**, Ghosh, S., Kar, S., Katiyar, D., Mondal, S., Pal, S. \& Sinha, A.
-  *Annual International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2026)*, 2026.  
+1. **Universally Composable Reverse Firewalls for Oblivious Linear Evaluation and Applications.**  
+  Chakraborty, S., **Ghosh, KD.**, Ghosh, S., Kar, S., Katiyar, D., Mondal, S., Pal, S. and Sinha, A.
+  *Annual International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2026)*.  
  [Preprint](https://eprint.iacr.org/2026/2012)
 
 
