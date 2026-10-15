@@ -18,6 +18,7 @@ Before joining RUB, I earned an M.Tech. in Cryptology and Security from the [Ind
 My academic journey began with a bachelor's degree in Mathematics from [Scottish Church College](https://www.scottishchurch.ac.in/), followed by a master's degree in Mathematics at [Banaras Hindu University](https://www.bhu.ac.in/). My background in mathematics and cryptography drives my interest in building secure cryptographic schemes and proving their security, with a focus on distributed protocols.
 
 ## Publication
+Also see my [Google Scholar](https://scholar.google.com/citations?user=QZh1XK4AAAAJ).
 
 ### Conference Papers
 
@@ -31,19 +32,9 @@ My academic journey began with a bachelor's degree in Mathematics from [Scottish
 
 ## Biodata
 
-My academic background, education, and experience.
-
-## Personal
-
 Ph.D. Student in Computer Science
 
 Ruhr University Bochum, Germany  
-
-
-[LinkedIn](https://www.linkedin.com/in/kiran-deep-ghosh-972aa82aa/)  
-[Google Scholar](https://scholar.google.com/citations?user=QZh1XK4AAAAJ)
-
-
 
 ### Research Interests
 
@@ -53,14 +44,13 @@ Ruhr University Bochum, Germany
 
 
 
+## Personal
 
 
-
+[LinkedIn](https://www.linkedin.com/in/kiran-deep-ghosh-972aa82aa/)  
 
 
 ## Contact
 
 - **Email:** myfullname [at] gmail [dot] com, firstname [dot] lastname [at] ruhr [-] uni [-] bochum [dot] de
 
-
----
