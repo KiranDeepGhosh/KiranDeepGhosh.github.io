@@ -24,16 +24,17 @@ Also see my [Google Scholar](https://scholar.google.com/citations?user=QZh1XK4AA
 
 ### Conference Papers
 
-1. **Universally Composable Reverse Firewalls for Oblivious Linear Evaluation and Applications.**  
-  Chakraborty, S., **Ghosh, KD.**, Ghosh, S., Kar, S., Katiyar, D., Mondal, S., Pal, S. and Sinha, A.
-  *Annual International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2026)*.  
+1. **Universally Composable Reverse Firewalls for Oblivious Linear Evaluation and Applications.** \
+  Chakraborty, S., **Ghosh, KD.**, Ghosh, S., Kar, S., Katiyar, D., Mondal, S., Pal, S. and Sinha, A.\
+  *Annual International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2026)*. \
  [Preprint](https://eprint.iacr.org/2026/2012)
 
 ### Thesis
+
 1. Master's thesis:
-  **TI-ulPCS: Threshold-Issuance - Un-linkable Policy Compliant Signatures.**
-  **Ghosh, KD.**, Roy, BK., Preneel, B., Sedaghat, M.
-  [PFD](https://digitalcommons.isical.ac.in/masters-dissertations/406/)
+  **TI-ulPCS: Threshold-Issuance - Un-linkable Policy Compliant Signatures.**\
+   **Ghosh, KD.**, Roy, BK., Preneel, B., Sedaghat, M.\
+   [PFD](https://digitalcommons.isical.ac.in/masters-dissertations/406/)
 
 
 
