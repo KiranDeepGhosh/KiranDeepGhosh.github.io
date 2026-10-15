@@ -19,7 +19,7 @@ Also see my [Google Scholar](https://scholar.google.com/citations?user=QZh1XK4AA
 1. Master's thesis:
   **TI-ulPCS: Threshold-Issuance - Un-linkable Policy Compliant Signatures.**\
    **Ghosh, KD.**, Roy, BK., Preneel, B., Sedaghat, M.\
-   [PFD](https://digitalcommons.isical.ac.in/masters-dissertations/406/)
+   [PDF](https://digitalcommons.isical.ac.in/masters-dissertations/406/)
 
 
 
