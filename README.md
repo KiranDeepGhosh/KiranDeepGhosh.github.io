@@ -2,9 +2,7 @@
 
 I am a Ph.D. student in Computer Science at Ruhr University Bochum (RUB), Germany, working at the Chair for Distributed Cryptography under the supervision of [Prof. Dr. Julian Loss](https://www.julianloss.com/). My research focuses on consensus protocols, digital signatures, and zero-knowledge proofs.
 
-Before joining RUB, I earned an M.Tech. in Cryptology and Security from the Indian Statistical Institute, Kolkata, India. For my master's thesis, I collaborated with COSIC at KU Leuven, working with [Prof. Bart Preneel](https://en.wikipedia.org/wiki/Bart_Preneel), [Prof. Bimal K. Roy](https://en.wikipedia.org/wiki/Bimal_Kumar_Roy), and [Dr. Mahdi Sedaghat](https://sedaghat.xyz/).
-
-My academic journey began with a bachelor's degree in Mathematics from Scottish Church College, followed by a master's degree in Mathematics at Banaras Hindu University in India. My background in mathematics and cryptography drives my interest in building secure cryptographic schemes and proving their security, with a focus on distributed protocols.
+Before joining RUB, I earned an M.Tech. in Cryptology and Security from the Indian Statistical Institute, Kolkata, India. For my master's thesis, I collaborated with COSIC at KU Leuven. My academic journey began with a bachelor's degree in Mathematics from Scottish Church College, followed by a master's degree in Mathematics at Banaras Hindu University in India. My background in mathematics and cryptography drives my interest in building secure cryptographic schemes and proving their security, with a focus on distributed protocols.
 
 ## Publication
 Also see my [Google Scholar](https://scholar.google.com/citations?user=QZh1XK4AAAAJ).
