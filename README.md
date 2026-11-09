@@ -2,7 +2,7 @@
 
 I am a Ph.D. student in Computer Science at Ruhr University Bochum (RUB), Germany, working at the Chair for Distributed Cryptography under the supervision of [Prof. Dr. Julian Loss](https://www.julianloss.com/). My research focuses on consensus protocols, digital signatures, and zero-knowledge proofs.
 
-Before joining RUB, I earned an M.Tech. in Cryptology and Security from the Indian Statistical Institute, Kolkata, India. For my master’s thesis, I collaborated with COSIC at KU Leuven, supervised by [Prof. Dr. ir. Bart Preneel](https://homes.esat.kuleuven.be/~preneel/). My academic journey began with a bachelor's degree in Mathematics from Scottish Church College, followed by a master's degree in Mathematics at Banaras Hindu University in India. My background in mathematics and cryptography drives my interest in building secure cryptographic schemes and proving their security, with a focus on distributed protocols.
+Before joining RUB, I earned an M.Tech. in Cryptology and Security from the Indian Statistical Institute, Kolkata, India. For my master’s thesis, I collaborated with COSIC at KU Leuven, supervised by [Prof. Dr. Ir. Bart Preneel](https://homes.esat.kuleuven.be/~preneel/). My academic journey began with a bachelor's degree in Mathematics from Scottish Church College, followed by a master's degree in Mathematics at Banaras Hindu University in India. My background in mathematics and cryptography drives my interest in building secure cryptographic schemes and proving their security, with a focus on distributed protocols.
 
 ## Publication
 Also see my [Google Scholar](https://scholar.google.com/citations?user=QZh1XK4AAAAJ).
@@ -42,7 +42,7 @@ Here is my updated [CV](https://drive.google.com/file/d/1mfJDeQM1QsINsH2okpGUhKz
 
 ### Committee Service
 
-Sub-reviewer for: TCC 2026
+Sub-reviewer for: TCC 2026, Eurocrypt 2027, ACNS 2027
 
 
 ## Personal
