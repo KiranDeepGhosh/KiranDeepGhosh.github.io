@@ -1,4 +1,5 @@
 ## Home
+![My picture](pic.jpeg)
 
 I am a Ph.D. student in Computer Science at Ruhr University Bochum (RUB), Germany, working at the Chair for Distributed Cryptography under the supervision of [Prof. Dr. Julian Loss](https://www.julianloss.com/). My research focuses on consensus protocols, digital signatures, and zero-knowledge proofs.
 
@@ -47,7 +48,7 @@ Sub-reviewer for: TCC 2026, Eurocrypt 2027, ACNS 2027
 
 ## Personal
 
-In my free time, when I am not doing research, I occasionally play football, table tennis, board games, and card games with colleagues and friends. I enjoy riding bicycles and motorcycles if I hold a licence for that region. I am a keen admirer of Lionel Messi and watch his football highlights during my leisure hours. I am also fond of good Indian food and of watching quality films and series. Beyond my research, I aimed to develop into a skilled photographer.  
+In my free time, when I am not doing research, I occasionally play football, table tennis, board games, and card games with colleagues and friends. I enjoy riding bicycles and motorcycles if I hold a licence for that region. I am a keen admirer of [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi) and watch his football highlights during my leisure hours. I am also fond of good Indian food and of watching quality films and series. Beyond my research, I aimed to develop into a skilled photographer.  
 
 
 ## Contact
