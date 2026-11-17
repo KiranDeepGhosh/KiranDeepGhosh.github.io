@@ -6,7 +6,7 @@ I am a Ph.D. student in Computer Science at Ruhr University Bochum (RUB), German
 Before joining RUB, I earned an M.Tech. in Cryptology and Security from the Indian Statistical Institute, Kolkata, India. For my master’s thesis, I collaborated with COSIC at KU Leuven, supervised by [Prof. Dr. Ir. Bart Preneel](https://homes.esat.kuleuven.be/~preneel/). My academic journey began with a bachelor's degree in Mathematics from Scottish Church College, followed by a master's degree in Mathematics at Banaras Hindu University in India. My background in mathematics and cryptography drives my interest in building secure cryptographic schemes and proving their security, with a focus on distributed protocols.
 
 ## Publication
-Also see my [Google Scholar](https://scholar.google.com/citations?user=QZh1XK4AAAAJ).
+Also see my [Google Scholar](https://drive.google.com/file/d/1dvPA1fH2lrsSZ-WRtBYghV3G9j6TIHHO/view?usp=sharing).
 
 ### Conference Papers
 
@@ -48,10 +48,9 @@ Sub-reviewer for: TCC 2026, Eurocrypt 2027, ACNS 2027
 
 ## Personal
 
-In my free time, when I am not doing research, I occasionally play football, table tennis, board games, and card games with colleagues and friends. I enjoy riding bicycles and motorcycles if I hold a licence for that region. I am a keen admirer of [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi) and watch his football highlights during my leisure hours. I am also fond of good Indian food and of watching quality films and series. Beyond my research, I aimed to develop into a skilled photographer.  
-
+As a student at [Krishnagar Collegiate School](https://en.wikipedia.org/wiki/Krishnagar_Collegiate_School), I measured my years not in grades or bells, but in the warmth of true friends and the joy of never walking alone. When I am not doing research in my free time, I occasionally play football, table tennis, board games, and card games with colleagues and friends. I enjoy riding bicycles and motorcycles. During my leisure hours, I watch football highlights of [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi). I am also fond of good Indian food, alongside watching quality films and series. Beyond my research, I enjoy taking pictures as an amateur photographer.
 
 ## Contact
 
-- **Email:** myfullname [at] gmail [dot] com, firstname [dot] lastname [at] ruhr [-] uni [-] bochum [dot] de
+- **Email:** fullname [at] gmail [dot] com, firstname [dot] lastname [at] ruhr [-] uni [-] bochum [dot] de
 
