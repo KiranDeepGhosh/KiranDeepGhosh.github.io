@@ -6,7 +6,7 @@ I am a Ph.D. student in Computer Science at Ruhr University Bochum (RUB), German
 Before joining RUB, I earned an M.Tech. in Cryptology and Security from the Indian Statistical Institute, Kolkata, India. For my master’s thesis, I collaborated with COSIC at KU Leuven, supervised by [Prof. Dr. Ir. Bart Preneel](https://homes.esat.kuleuven.be/~preneel/). My academic journey began with a bachelor's degree in Mathematics from Scottish Church College, followed by a master's degree in Mathematics at Banaras Hindu University in India. My background in mathematics and cryptography drives my interest in building secure cryptographic schemes and proving their security, with a focus on distributed protocols.
 
 ## Publication
-Also see my [Google Scholar](https://drive.google.com/file/d/1dvPA1fH2lrsSZ-WRtBYghV3G9j6TIHHO/view?usp=sharing).
+Also see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=QZh1XK4AAAAJ).
 
 ### Conference Papers
 
@@ -26,7 +26,7 @@ Also see my [Google Scholar](https://drive.google.com/file/d/1dvPA1fH2lrsSZ-WRtB
 
 ## Biodata
 
-Here is my updated [CV](https://drive.google.com/file/d/1mfJDeQM1QsINsH2okpGUhKz7-mbMiy5f/view?usp=drive_link) and the link to my [LinkedIn](https://www.linkedin.com/in/kiran-deep-ghosh-972aa82aa/) profile.
+Here is my updated [CV](https://drive.google.com/file/d/1dvPA1fH2lrsSZ-WRtBYghV3G9j6TIHHO/view?usp=sharing) and the link to my [LinkedIn](https://www.linkedin.com/in/kiran-deep-ghosh-972aa82aa/) profile.
 
 ### Research Interests
 
